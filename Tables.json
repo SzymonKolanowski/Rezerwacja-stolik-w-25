@@ -1,0 +1,73 @@
+{
+  "Tables": [
+    {
+      "ID": 1,
+      "Title": "a",
+      "Capacity": 4,
+      "ReservationList": [
+        {
+          "ID": 1,
+          "StartReservation": "2021-10-01T20:00:00",
+          "EndReservation": "2021-10-01T22:00:00",
+          "ReservationDay": null
+        },
+        {
+          "ID": 2,
+          "StartReservation": "2021-09-07T17:00:00",
+          "EndReservation": "2021-09-07T18:00:00",
+          "ReservationDay": null
+        },
+        {
+          "ID": 3,
+          "StartReservation": "2021-09-07T18:00:00",
+          "EndReservation": "2021-09-07T19:00:00",
+          "ReservationDay": null
+        },
+        {
+          "ID": 4,
+          "StartReservation": "2021-09-07T16:00:00",
+          "EndReservation": "2021-09-07T17:00:00",
+          "ReservationDay": null
+        }
+      ]
+    },
+    {
+      "ID": 2,
+      "Title": "b",
+      "Capacity": 8,
+      "ReservationList": [
+        {
+          "ID": 1,
+          "StartReservation": "2021-08-29T18:00:00",
+          "EndReservation": "2021-08-29T19:00:00",
+          "ReservationDay": null
+        },
+        {
+          "ID": 2,
+          "StartReservation": "2021-08-29T16:00:00",
+          "EndReservation": "2021-08-29T17:00:00",
+          "ReservationDay": null
+        }
+      ]
+    },
+    {
+      "ID": 3,
+      "Title": "c",
+      "Capacity": 6,
+      "ReservationList": [
+        {
+          "ID": 1,
+          "StartReservation": "2021-08-30T17:30:00",
+          "EndReservation": "2021-08-30T19:00:00",
+          "ReservationDay": null
+        },
+        {
+          "ID": 2,
+          "StartReservation": "2021-10-01T17:30:00",
+          "EndReservation": "2021-10-01T19:00:00",
+          "ReservationDay": null
+        }
+      ]
+    }
+  ]
+}
